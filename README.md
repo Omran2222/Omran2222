@@ -4,10 +4,14 @@
 - 💞️ I’m looking to collaborate on code building 
 - 📫 How to reach me ...
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from Saudi Arabia</h3>
+
+<p align="left"> <a href="https://twitter.com/omran_2222" target="blank"><img src="https://img.shields.io/twitter/follow/omran_2222?logo=twitter&style=for-the-badge" alt="omran_2222" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/omran_2222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="omran_2222" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/omran2222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omran2222" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
