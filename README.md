@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @Omran2222
-- 👀 I’m interested in CS & IT 
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on code building 
-- 📫 How to reach me ...
 
-<h3 align="center">A passionate frontend developer from Saudi Arabia</h3>
+
+<h3 align="center"> Omran </h3>
 
 <p align="left"> <a href="https://twitter.com/omran_2222" target="blank"><img src="https://img.shields.io/twitter/follow/omran_2222?logo=twitter&style=for-the-badge" alt="omran_2222" /></a> </p>
 
