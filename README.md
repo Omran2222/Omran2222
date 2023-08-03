@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Omran2222
-- 👀 I’m interested in Game && Web Development
+- 👀 I’m interested in Game & XR Development 
 - 🌱 I’m currently learning live
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me
