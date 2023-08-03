@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Omran2222
+- 👋 Hi, I’m Omran
 - 👀 I’m interested in Game & XR Development 
 - 🌱 I'm currently increasing and improving my experience and skills
 - 💞️ I’m looking to collaborate on XR (AR/VR) and Game projects
